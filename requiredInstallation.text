@@ -1,0 +1,23 @@
+opencv-python
+ultralytics
+torch
+tensorflow
+seaborn
+scipy
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+mediapipe
+face_recognition
+dlib-19.24.1-cp311-cp311-win_amd64.whl
+pyaudio
+pyttsx3
+speech_recognition
+wikipedia
+google-generativeai
+keyboard
+selenium
+
+//cuda for gpu
